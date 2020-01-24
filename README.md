@@ -3,7 +3,7 @@ Bookmark App
 **for some reason, could not push dist folder and so me and my mentor decided that this was the only solution we could come up
 with to have the gh page run the app. All formated code is in the src folder of master branch.** 
 
-gh-pages link:
+gh-pages link: https://shimmy77.github.io/christian-bookmark_app/
 
 As a user: I can add bookmarks to my bookmark list. Bookmarks contain:
 
